@@ -1,0 +1,30 @@
+body {
+  background-color: #e5fff9;
+}
+
+.question {
+  box-sizing: content-box; 
+  width: 500px; 
+  max-height: 200px; 
+  padding: 15px; 
+  border: 2px solid black;
+  margin-bottom: 25px;
+  margin-right: 30px;
+}
+
+.questionanswer {
+  float: left;
+  left: 0;
+}
+
+textarea {
+  width: 535px;
+}
+
+.table {
+  margin-left: 10px;
+}
+
+.comment {
+  left: 0;
+}

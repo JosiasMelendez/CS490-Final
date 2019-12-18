@@ -1,0 +1,15 @@
+body {
+  background-color: #e5fff9;
+}
+
+.tests {
+  top: 30%;
+  text-align: center;
+  border-style: double;
+  display: inline;
+  float: left;  
+  padding: 25px;
+  margin-left: 30px;
+  margin-right: 20px;
+  word-wrap: normal;
+}

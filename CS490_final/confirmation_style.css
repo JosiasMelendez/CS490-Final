@@ -1,0 +1,14 @@
+body {
+  background-color: #e5fff9;
+}
+
+.end {
+  top: 30%;
+  position: fixed;
+  text-align: center;
+  border-style: double;
+  display: inline;
+  padding: 25px;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}

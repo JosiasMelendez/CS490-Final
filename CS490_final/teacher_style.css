@@ -1,0 +1,24 @@
+body {
+  background-color: #e5fff9;
+}
+.choice {
+  top: 30%;
+  position: fixed;
+  text-align: center;
+  border-style: double;
+  display: inline;
+  word-wrap: normal;
+  padding: 25px;
+}
+  
+.one {
+  left: 5%;
+}
+
+.two {
+  left: 39%;
+}
+
+.three {
+  right: 5%;
+}
